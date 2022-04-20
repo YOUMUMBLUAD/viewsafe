@@ -1,0 +1,22 @@
+local safe = game.Players.PLAYERNAMEHERE.SafeStats.S1.Value
+local lol = game.Players.PLAYERNAMEHERE.SafeStats.S2.Value
+local bruh = game.Players.PLAYERNAMEHERE.SafeStats.S3.Value
+local dang = game.Players.PLAYERNAMEHERE.SafeStats.S4.Value
+local dog = game.Players.PLAYERNAMEHERE.SafeStats.S5.Value
+local har = game.Players.PLAYERNAMEHERE.SafeStats.S6.Value
+local sa = game.Players.PLAYERNAMEHERE.SafeStats.S7.Value
+local sol = game.Players.PLAYERNAMEHERE.SafeStats.S8.Value
+local sl2 = game.Players.PLAYERNAMEHERE.SafeStats.S9.Value
+local fr = game.Players.PLAYERNAMEHERE.SafeStats.S10.Value
+print(safe)
+print(lol)
+print(bruh)
+print(dang)
+print(dog)
+print(har)
+print(sa)
+print(sol)
+print(sl2)
+print(fr)
+
+--PUT THE PLAYERS SAFE YOU WANT TO VIEW IN, REPLACE IT WITH "PLAYERNAMEHERE"
